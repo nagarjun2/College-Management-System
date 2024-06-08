@@ -27,3 +27,13 @@ Next is scheduling the event
 
 <img src="EventManagementSystem/Images/Schedule meeting output.png ">
 List of events 
+
+
+<img src="EventManagementSystem/Images/Cancelling event.png ">
+Cancellation of events
+
+
+<img src="EventManagementSystem/Images/Succesfully deleted output.png">
+<img src="EventManagementSystem/Images/After deleting .png">
+Here is the result for deleting an event 
+
