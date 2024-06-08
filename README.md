@@ -10,3 +10,5 @@ Here in this project, user can schedule events , delete events and view list of 
 <img src="EventManagementSystem/Images/Registeration form.png ">
 
 Enter the details in the Sign up form and log in
+
+<img src="EventManagementSystem/Images/After log in.png">
