@@ -30,7 +30,7 @@ List of events
 
 
 <img src="EventManagementSystem/Images/Cancelling event.png ">
-Cancellation of events
+Cancellation of a single event
 
 
 <img src="EventManagementSystem/Images/Succesfully deleted output.png">
