@@ -7,5 +7,6 @@ Here in this project, user can schedule events , delete events and view list of 
 
 ![Home ](https://github.com/nagarjun2/College-Management-System/assets/48305529/82821136-0889-415a-938e-32a7555cf263)
 
-<img src="EventManagementSystem/Images/Registeration form.png "
+<img src="EventManagementSystem/Images/Registeration form.png ">
+
 Enter the details in the Sign up form and log in
