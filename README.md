@@ -1,4 +1,4 @@
-<h3> College-Management-System </h3> 
+<h4> College-Management-System </h4> 
 
 The project is based on Event Management system and the project demo is on College Management System.
 
@@ -13,4 +13,13 @@ Here in this project, user can schedule events , delete events and view list of 
 
 Enter the details in the Sign up form and log in
 
+
+
 <img src="EventManagementSystem/Images/After log in.png">
+
+Welcome page after log in
+
+
+EventManagementSystem/Images/Event Scheduling.png
+
+<h2>Next is scheduling the event</h2>
