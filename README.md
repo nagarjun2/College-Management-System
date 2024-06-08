@@ -20,6 +20,6 @@ Enter the details in the Sign up form and log in
 Welcome page after log in
 
 
-EventManagementSystem/Images/Event Scheduling.png
+<img src="EventManagementSystem/Images/Event Scheduling.png">
 
 <h2>Next is scheduling the event</h2>
