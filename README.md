@@ -17,9 +17,9 @@ Enter the details in the Sign up form and log in
 
 <img src="EventManagementSystem/Images/After log in.png">
 
-Welcome page after log in
+<h2>Welcome page after log in</h2>
 
 
 <img src="EventManagementSystem/Images/Event Scheduling.png">
 
-<h2>Next is scheduling the event</h2>
+<h3>Next is scheduling the event</h3>
