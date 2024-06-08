@@ -23,3 +23,7 @@ Enter the details in the Sign up form and log in
 <img src="EventManagementSystem/Images/Event Scheduling.png">
 
 <h3>Next is scheduling the event</h3>
+
+
+<img src="EventManagementSystem/Images/Schedule meeting output.png ">
+<h2>List of events </h2>
