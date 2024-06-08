@@ -17,13 +17,13 @@ Enter the details in the Sign up form and log in
 
 <img src="EventManagementSystem/Images/After log in.png">
 
-<h2>Welcome page after log in</h2>
+Welcome page after log in
 
 
 <img src="EventManagementSystem/Images/Event Scheduling.png">
 
-<h3>Next is scheduling the event</h3>
+Next is scheduling the event
 
 
 <img src="EventManagementSystem/Images/Schedule meeting output.png ">
-<h2>List of events </h2>
+List of events 
